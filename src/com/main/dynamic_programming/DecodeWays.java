@@ -1,13 +1,18 @@
 package com.main.dynamic_programming;
 
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
 public class DecodeWays {
     Map<Integer, Integer> memo = new HashMap<>();
 
-    private int numDecodings(String s) {
-        return recursiveWithMemo(0, s);
+    private int numDecodings(String s, boolean recursive) {
+        if (recursive) {
+            return recursiveWithMemo(0, s);
+        } else {
+            return recursiveWithTable(s);
+        }
     }
 
     private int recursiveWithMemo(int index, String s) {
@@ -36,8 +41,27 @@ public class DecodeWays {
         return result;
     }
 
+    private int recursiveWithTable(String s) {  //'101123' => 5
+        int[] table = new int[s.length() + 1];
+        table[0] = 1;
+        table[1] = s.charAt(0) == '0' ? 0 : 1;
+
+        for (int i = 2; i < table.length; i++) {
+            if (s.charAt(i - 1) != '0') {
+                table[i] = table[i - 1];
+            }
+
+            int num = Integer.parseInt(s.substring(i - 2, i));
+            if (num >= 10 && num <= 26) {
+                table[i] += table[i - 2];
+            }
+        }
+
+        return table[s.length()];
+    }
+
     public static void main(String[] args) {
         DecodeWays decodeWays = new DecodeWays();
-        System.out.println(decodeWays.numDecodings("256"));
+        System.out.println(decodeWays.numDecodings("101123", false));
     }
 }
