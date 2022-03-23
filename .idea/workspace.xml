@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5bcea879-50a7-4fb2-9bbe-5ad24985ec48" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="521" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="bnjfuuw7" />
+  </component>
+  <component name="ProjectId" id="1kwMapRilbagVTaeetewM70ezin" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="//wsl$/Ubuntu-18.04/mnt/c" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.main" />
+    </key>
+  </component>
+  <component name="RemoteSynchronizer">
+    <option name="targetMappings">
+      <list>
+        <TargetMappings>
+          <option name="name" value="Default" />
+        </TargetMappings>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.BinarySearchRecursive">
+    <configuration name="BestTimeToBuyAndSellStock2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.main.greedy.BestTimeToBuyAndSellStock2" />
+      <module name="Code-Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.main.greedy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BinarySearchRecursive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.main.recursion.BinarySearchRecursive" />
+      <module name="Code-Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.main.recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecodeWays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.main.dynamic_programming.DecodeWays" />
+      <module name="Code-Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.main.dynamic_programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinimumCoinsToMakeChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.main.dynamic_programming.MinimumCoinsToMakeChange" />
+      <module name="Code-Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.main.dynamic_programming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PairsOfSongsWithTotalDurationDivisibleBy60" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.main.arrays.PairsOfSongsWithTotalDurationDivisibleBy60" />
+      <module name="Code-Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.main.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MinimumCoinsToMakeChange" />
+      <item itemvalue="Application.BestTimeToBuyAndSellStock2" />
+      <item itemvalue="Application.PairsOfSongsWithTotalDurationDivisibleBy60" />
+      <item itemvalue="Application.DecodeWays" />
+      <item itemvalue="Application.BinarySearchRecursive" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinarySearchRecursive" />
+        <item itemvalue="Application.DecodeWays" />
+        <item itemvalue="Application.MinimumCoinsToMakeChange" />
+        <item itemvalue="Application.PairsOfSongsWithTotalDurationDivisibleBy60" />
+        <item itemvalue="Application.BestTimeToBuyAndSellStock2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5bcea879-50a7-4fb2-9bbe-5ad24985ec48" name="Default Changelist" comment="" />
+      <created>1606607266164</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606607266164</updated>
+      <workItem from="1606607271606" duration="113000" />
+      <workItem from="1606607433365" duration="493000" />
+      <workItem from="1606963277126" duration="35000" />
+      <workItem from="1609637982468" duration="2623000" />
+      <workItem from="1609728743483" duration="3165000" />
+      <workItem from="1609902559205" duration="2783000" />
+      <workItem from="1609949822289" duration="715000" />
+      <workItem from="1610084514307" duration="2751000" />
+      <workItem from="1610236075571" duration="1289000" />
+      <workItem from="1610243830743" duration="2000" />
+      <workItem from="1610304437516" duration="8000" />
+      <workItem from="1610308671342" duration="4619000" />
+      <workItem from="1610342594540" duration="1499000" />
+      <workItem from="1610377057347" duration="48000" />
+      <workItem from="1610377389808" duration="25000" />
+      <workItem from="1610377422439" duration="56000" />
+      <workItem from="1610377498622" duration="2057000" />
+      <workItem from="1610379668192" duration="1765000" />
+      <workItem from="1610381470312" duration="1376000" />
+      <workItem from="1610382967991" duration="2419000" />
+      <workItem from="1610386515474" duration="1204000" />
+      <workItem from="1610387742262" duration="54000" />
+      <workItem from="1610387809248" duration="9000" />
+      <workItem from="1610417829928" duration="40000" />
+      <workItem from="1610417885028" duration="2143000" />
+      <workItem from="1610425872899" duration="1312000" />
+      <workItem from="1610427433899" duration="936000" />
+      <workItem from="1610506951525" duration="9000" />
+      <workItem from="1610507015084" duration="1486000" />
+      <workItem from="1610640426506" duration="2724000" />
+      <workItem from="1610643702258" duration="395000" />
+      <workItem from="1610739314024" duration="93000" />
+      <workItem from="1610745364557" duration="5000" />
+      <workItem from="1610745506525" duration="17000" />
+      <workItem from="1613441357214" duration="741000" />
+      <workItem from="1613442248112" duration="332000" />
+      <workItem from="1613447493670" duration="2036000" />
+      <workItem from="1613450995557" duration="489000" />
+      <workItem from="1613489505175" duration="1179000" />
+      <workItem from="1613529727911" duration="85000" />
+      <workItem from="1613529826239" duration="3649000" />
+      <workItem from="1613595144478" duration="1565000" />
+      <workItem from="1613707261225" duration="1665000" />
+      <workItem from="1619583730470" duration="67000" />
+      <workItem from="1619583817495" duration="124000" />
+      <workItem from="1619584095510" duration="499000" />
+      <workItem from="1619584626293" duration="48000" />
+      <workItem from="1619584779320" duration="440000" />
+      <workItem from="1619753822682" duration="2388000" />
+      <workItem from="1619812447637" duration="60000" />
+      <workItem from="1619813666851" duration="811000" />
+      <workItem from="1619816673556" duration="36000" />
+      <workItem from="1619816719213" duration="1508000" />
+      <workItem from="1619828863388" duration="22000" />
+      <workItem from="1619829082714" duration="929000" />
+      <workItem from="1621097948948" duration="700000" />
+      <workItem from="1621099266544" duration="627000" />
+      <workItem from="1621112081192" duration="1514000" />
+      <workItem from="1621116107756" duration="46000" />
+      <workItem from="1621116168065" duration="1198000" />
+      <workItem from="1621136580561" duration="2000" />
+      <workItem from="1621215712354" duration="774000" />
+      <workItem from="1621256105934" duration="218000" />
+      <workItem from="1621439729950" duration="1312000" />
+      <workItem from="1621450484596" duration="2000" />
+      <workItem from="1647367626457" duration="627000" />
+      <workItem from="1647558839232" duration="19000" />
+      <workItem from="1647604672381" duration="2469000" />
+      <workItem from="1647613336235" duration="2824000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add more problems and solutions.">
+      <created>1647629284605</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647629284605</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update gitignore.">
+      <created>1647629707896</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647629707896</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="bash.exe" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add more problems and solutions." />
+    <MESSAGE value="Update gitignore." />
+    <option name="LAST_COMMIT_MESSAGE" value="Update gitignore." />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/main/backtracking/Anagrams.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Code_Practice$ArrayPermutations.ic" NAME="ArrayPermutations Coverage Results" MODIFIED="1610310623258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.main.*</FILTER>
+    </SUITE>
+  </component>
+</project>
